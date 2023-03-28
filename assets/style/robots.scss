@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+$primary-color: #7775D6;
+$secondary-color: #E935C1;
+$dark:#000;
+$font-family-headings: 'Press Start 2P', cursive;
+$font-family-body: 'Courier', sans-serif;
+
+.bg-primary {
+  background-color: $primary-color;
+  ;
+}
+
+.bg-secondary {
+  background-color: $secondary-color;
+}
+
+.text-primary {
+  color: $primary-color;
+}
+
+.text-secondary {
+  color: $secondary-color;
+}
+
+.card {
+ padding: 30px;
+ margin:30px;
+ }
+
+.card-header {
+  background-color: $primary-color;
+  color: white;
+  font-family: $font-family-headings;
+}
+
+.card-body {
+  font-family: $font-family-body;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-headings;
+}
+
+html, body {
+  font-family: $font-family-body;
+  background-color: $primary-color;
+}
+.avatar-round {
+    border-radius: 50%;
+    width: 40px;
+    height: auto;
+    background-color:#fff;
+}
+.avatar-full {
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    background-color:#fff;
+}

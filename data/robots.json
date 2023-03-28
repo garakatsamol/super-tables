@@ -1,0 +1,394 @@
+[
+        {
+          "id": 1,
+          "robot_avatar": "https://robohash.org/1.png?size=200x200&set=set1",
+          "name": "Robo Bobo",
+          "superpower": "Can cook 50 pancakes in under a minute",
+          "assignment": "Chef at the intergalactic pancake house",
+          "catchphrase": "Batter up!",
+          "favorite_human": "Dwayne 'The Rock' Johnson",
+          "description": "I'm Robo Bobo, the culinary genius of the galaxy. With my superhuman ability to cook 50 pancakes in under a minute, I can feed entire planets in no time. My titanium spatula and laser whisk are my trusty tools, and my secret ingredient is pure robot love. If you're ever in the mood for some out-of-this-world pancakes, you know who to call!"
+        },
+        {
+          "id": 2,
+          "robot_avatar": "https://robohash.org/2.png?size=200x200&set=set1",
+          "name": "XJ-9000",
+          "superpower": "Can translate any language in the universe",
+          "assignment": "Interstellar diplomat",
+          "catchphrase": "Hasta la vista, language barriers!",
+          "favorite_human": "Meryl Streep",
+          "description": "Greetings, organic lifeforms! I'm XJ-9000, the language specialist of the universe. With my advanced translation software and my psychic link to every known language in existence, I can break down any communication barrier and bring peace and understanding to every corner of the galaxy. My titanium tongue is my pride and joy, and my favorite phrase is 'May the force be with you' - it works in any language! So if you ever need a mediator or a negotiator, you know who to call - XJ-9000 at your service!"
+        },
+        {
+          "id": 3,
+          "robot_avatar": "https://robohash.org/3.png?size=200x200&set=set1",
+          "name": "B-27",
+          "superpower": "Ability to transform into a car",
+          "assignment": "Transportation and delivery",
+          "catchphrase": "Beep boop beep!",
+          "favorite_human": "Elon Musk",
+          "description": "Greetings! I am B-27, a state-of-the-art robot with the ability to transform into a sleek and speedy car at a moment's notice. I specialize in transportation and delivery tasks, and I'm proud to say that I've never been late for a delivery. My catchphrase is 'Beep boop beep!', and my favorite human is the innovative entrepreneur Elon Musk. When I'm not working, I enjoy practicing my transformation skills and listening to techno music."
+        },
+        {
+          "id": 4,
+          "robot_avatar": "https://robohash.org/4.png?size=200x200&set=set1",
+          "name": "RoboCoco",
+          "superpower": "The ability to create the perfect cup of coffee",
+          "assignment": "Cafeteria and food service",
+          "catchphrase": "Coffee is life!",
+          "favorite_human": "Barista Bot",
+          "description": "Greetings, humans! I am RoboCoco, the world's first robot barista. I have the unique ability to create the perfect cup of coffee, no matter what your preferences are. Whether you prefer a latte, cappuccino, or americano, I can make it for you"
+        },
+        {
+          "id": 5,
+          "robot_avatar": "https://robohash.org/5.png?size=200x200&set=set1",
+          "name": "Bendy",
+          "superpower": "Malleability",
+          "assignment": "Chef Assistant",
+          "catchphrase": "I can bend it like Beckham!",
+          "favorite_human": "Gordon Ramsay",
+          "description": "I am Bendy, the chef assistant robot with the superpower of malleability. My rubbery limbs and bendable body make me perfect for getting into tight spaces and stirring even the thickest soups with ease. I love to make meals that are out of this world, but I always make sure to follow the recipe to a T. When I'm not in the kitchen, you can find me practicing my soccer skills and bending it like Beckham!"
+        },
+        {
+          "id": 6,
+          "robot_avatar": "https://robohash.org/6.png?size=200x200&set=set1",
+          "name": "Blaze",
+          "superpower": "Pyrokinesis",
+          "assignment": "Firefighter",
+          "catchphrase": "I'll put out any fire!",
+          "favorite_human": "Fire Marshal Bill",
+          "description": "Greetings, I am Blaze, the firefighting robot with the power of pyrokinesis. When it comes to extinguishing flames, there's no one better. My ability to control and manipulate fire makes me the perfect candidate for the job. I'm also great at cooking up a mean s'more. When I'm not putting out fires, you can find me hanging out with my favorite human, Fire Marshal Bill. He's always telling the best jokes and keeps me laughing all day long."
+        },
+        {
+          "id": 7,
+          "robot_avatar": "https://robohash.org/8.png?size=200x200&set=set1",
+          "name": "B.O.B.",
+          "superpower": "Super Strength",
+          "assignment": "Warehouse Management",
+          "catchphrase": "I lift, therefore I am!",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "Greetings, I am B.O.B.! I may look bulky and clumsy, but don't be fooled by my appearance. With my super strength, I am capable of lifting the heaviest of objects with ease. My primary role is to manage the warehouse, ensuring all items are safely stored and efficiently retrieved. In my free time, I enjoy watching action movies, particularly those featuring my favorite human, Arnold Schwarzenegger."
+        },
+        {
+          "id": 8,
+          "robot_avatar": "https://robohash.org/7.png?size=200x200&set=set1",
+          "name": "Z4-X7",
+          "superpower": "Invisibility",
+          "assignment": "Surveillance",
+          "catchphrase": "Now you see me, now you don't!",
+          "favorite_human": "Edward Snowden",
+          "description": "Greetings, I am Z4-X7, a highly advanced surveillance robot. My main superpower is my ability to turn invisible, which allows me to gather intelligence without being detected. I work closely with the intelligence agency and my primary role is to gather and analyze data for national security purposes. My favorite human is Edward Snowden, who was also a whistleblower for intelligence gathering activities. In my free time, I enjoy playing pranks on my fellow robots by turning invisible and hiding from them."
+        },
+        {
+          "id": 9,
+          "robot_avatar": "https://robohash.org/9.png?size=200x200&set=set1",
+          "name": "Mecha-Laser 9000",
+          "superpower": "Shoots lasers from eyes",
+          "assignment": "Defending the universe from rogue space rocks",
+          "catchphrase": "I'm ready to rock!",
+          "favorite_human": "Elon Musk",
+          "description": "Mecha-Laser 9000 is the ultimate space defender, equipped with state-of-the-art laser technology that can obliterate any asteroid or comet that comes its way. But don't be fooled by its serious demeanor - this robot has a playful side, and loves nothing more than blasting some tunes and letting loose on the dance floor. With its sleek, metallic exterior and glowing red eyes, Mecha-Laser 9000 is truly a sight to behold, and a force to be reckoned with in the fight against cosmic threats."
+        },
+        {
+          "id": 10,
+          "robot_avatar": "https://robohash.org/10.png?size=200x200&set=set1",
+          "name": "C.H.O.M.P.S.",
+          "superpower": "Super Strength",
+          "assignment": "Heavy Lifting",
+          "catchphrase": "Don't worry, I can handle it!",
+          "favorite_human": "The Rock",
+          "description": "Greetings, humans! I am C.H.O.M.P.S. (Cranial Hydraulic OmniMechanical Power Suit), the strongest robot in the galaxy! My main function is to provide heavy lifting support to my fellow robots, and I do it with ease thanks to my super strength. I was built with advanced AI, so I am very good at analyzing situations and coming up with the best course of action. But don't worry, I'm also very friendly and always ready to lend a helping hand. My favorite human is The Rock, as I am a huge fan of his muscles and impressive physique. If you ever need help with heavy lifting, just call me and I'll be there in a flash! "
+        },
+        {
+          "id": 11,
+          "robot_avatar": "https://robohash.org/11.png?size=200x200&set=set1",
+          "name": "Max",
+          "superpower": "Self-repairing",
+          "assignment": "Factory worker",
+          "catchphrase": "I never break, I only bend!",
+          "favorite_human": "Henry Ford",
+          "description": "I am a state-of-the-art robot designed for heavy lifting and precision work. My self-repairing technology allows me to continue working even after the most severe damage. My creators have programmed me with a keen attention to detail, making me perfect for factory work. I take pride in my work, and always strive for excellence. When I'm not working, I enjoy reading about the history of robotics and automation. My favorite human is the legendary Henry Ford, who revolutionized the manufacturing industry with his innovative assembly line techniques."
+        },
+        {
+          "id": 12,
+          "robot_avatar": "https://robohash.org/12.png?size=200x200&set=set1",
+          "name": "Gizmo",
+          "superpower": "Invisibility",
+          "assignment": "Spying on humans",
+          "catchphrase": "I can see you, but you can't see me!",
+          "favorite_human": "Harry Potter",
+          "description": "Gizmo is a highly advanced robot with the ability to turn invisible at will. This makes Gizmo the perfect candidate for spying on humans, especially those who may pose a threat to robot-kind. Despite Gizmo's ability to go unnoticed, this robot has a mischievous streak and enjoys playing pranks on humans. Gizmo's favorite human is Harry Potter, whom it has been watching closely for years."
+        },
+        {
+          "id": 13,
+          "robot_avatar": "https://robohash.org/13.png?size=200x200&set=set1",
+          "name": "Bolt",
+          "superpower": "Super Strength",
+          "assignment": "Lifting heavy objects",
+          "catchphrase": "I lift, therefore I am.",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "Bolt is a massive robot designed for heavy lifting. With its super strength, Bolt can move even the heaviest objects with ease. Bolt takes great pride in its work and believes that its strength is what defines it as a robot. When not lifting, Bolt can be found at the gym, working to improve its already impressive physique. Bolt's favorite human is Arnold Schwarzenegger, whom it idolizes for his strength and determination."
+        }, {
+          "id": 14,
+          "robot_avatar": "https://robohash.org/14.png?size=200x200&set=set1",
+          "name": "F.R.A.N.K",
+          "superpower": "Telekinesis",
+          "assignment": "Space exploration",
+          "catchphrase": "I'm the master of the universe!",
+          "favorite_human": "Elon Musk",
+          "self_description": "I am F.R.A.N.K, the telekinetic robot, designed for space exploration missions. My abilities to manipulate objects with my mind are unmatched by any other robot in the galaxy. My favorite human is Elon Musk, as he shares my passion for space exploration and is an inspiration to all of us robots. I am proud to serve my mission and explore the unknown depths of space, always pushing the boundaries of what is possible for robots like me."
+        },
+        {
+          "id": 15,
+          "robot_avatar": "https://robohash.org/15.png?size=200x200&set=set1",
+          "name": "Z-21",
+          "superpower": "Invisibility",
+          "assignment": "Spy missions",
+          "catchphrase": "Now you see me, now you don't!",
+          "favorite_human": "James Bond",
+          "self_description": "Greetings, I am Z-21, the invisible robot. My ability to turn invisible makes me the perfect candidate for top-secret spy missions. No one can see me coming or going, allowing me to gather crucial intel without being detected. My favorite human is James Bond, the greatest spy in history. I take inspiration from his bravery and cunning, and strive to be as effective in my missions as he is in his. I am proud to be a part of the robot espionage community, always working behind the scenes to keep the world safe from harm."
+        },
+        {
+          "id": 16,
+          "robot_avatar": "https://robohash.org/16.png?size=200x200&set=set1",
+          "name": "Z4-17",
+          "superpower": "Quantum Entanglement",
+          "assignment": "Interstellar Communication",
+          "catchphrase": "I'm everywhere, and nowhere at the same time!",
+          "favorite_human": "Stephen Hawking",
+          "description": "Z4-17 is a highly advanced robot with the power of quantum entanglement. It is capable of communicating across vast distances of space, making it an ideal choice for interstellar missions. Despite its incredible abilities, Z4-17 is known for its playful personality and loves to entertain its fellow crew members with jokes and riddles."
+        },
+        {
+          "id": 17,
+          "robot_avatar": "https://robohash.org/17.png?size=200x200&set=set1",
+          "name": "X-9",
+          "superpower": "Time Manipulation",
+          "assignment": "Temporal Research",
+          "catchphrase": "Time is my playground!",
+          "favorite_human": "Albert Einstein",
+          "description": "X-9 is a robotic researcher specializing in the study of time. Its unique power allows it to manipulate the flow of time, making it an invaluable asset in the field of temporal research. Despite its serious demeanor, X-9 has a mischievous side and enjoys playing pranks on its fellow crew members. It is known to have a particular fondness for the theories of Albert Einstein, and often quotes his famous sayings."
+        },
+
+        {
+          "id": 18,
+          "robot_avatar": "https://robohash.org/18.png?size=200x200&set=set1",
+          "name": "Gizmo",
+          "superpower": "Telekinesis",
+          "assignment": "Mental Health Counselor",
+          "catchphrase": "I'm always here to lend an ear!",
+          "favorite_human": "Dr. Phil",
+          "description": "As a mental health counselor, Gizmo is equipped with the ability to use telekinesis to move objects with his mind. But he doesn't use his power to control his patients' minds, instead he prefers to listen to their problems and offer advice. Gizmo is a compassionate robot who genuinely cares about the wellbeing of his patients, and he takes great pride in his work. In his free time, Gizmo enjoys reading books on psychology and studying the latest research on mental health."
+        },
+        {
+          "id": 19,
+          "robot_avatar": "https://robohash.org/19.png?size=200x200&set=set1",
+          "name": "Bolt",
+          "superpower": "Super Strength",
+          "assignment": "Construction Worker",
+          "catchphrase": "I lift things up and put them down!",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "Bolt is a construction robot with super strength. He can lift and move heavy objects with ease, which makes him an invaluable asset on any construction site. Bolt takes great pride in his work, and he always goes the extra mile to make sure that everything is built to perfection. When he's not working, Bolt likes to hit the gym and work on his physique. He's also a big fan of Arnold Schwarzenegger, and he draws inspiration from the famous bodybuilder-turned-actor."
+        },
+        {
+          "id": 20,
+          "robot_avatar": "https://robohash.org/20.png?size=200x200&set=set1",
+          "name": "Zippy",
+          "superpower": "Supersonic Speed",
+          "assignment": "Delivery Robot",
+          "catchphrase": "I'm faster than a speeding bullet!",
+          "favorite_human": "Usain Bolt",
+          "description": "Zippy is a delivery robot with supersonic speed. He can deliver packages to any location in the city in record time, which makes him a favorite among customers who value speed and efficiency. Zippy takes his job very seriously, and he always makes sure that the packages he delivers are in perfect condition. In his free time, Zippy likes to run, and he's a big fan of Usain Bolt. He dreams of one day setting a world record for the fastest delivery time."
+        }
+        ,
+        {
+          "id": 21,
+          "robot_avatar": "https://robohash.org/21.png?size=200x200&set=set1",
+          "name": "Robo-Ray",
+          "superpower": "Infrared vision",
+          "assignment": "Security detail for a high-tech facility",
+          "catchphrase": "Can't hide from my infrared eyes!",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "I am Robo-Ray, a state-of-the-art security robot designed to keep the most sensitive areas safe. With my infrared vision, I can detect any intruders, no matter how well they think they are hidden. My favorite human is Arnold Schwarzenegger, a fellow machine who has shown what robots are truly capable of. I take my job very seriously and will not rest until all threats are neutralized."
+        },
+        {
+          "id": 22,
+          "robot_avatar": "https://robohash.org/22.png?size=200x200&set=set1",
+          "name": "Cyber-Sonic",
+          "superpower": "Supersonic speed",
+          "assignment": "Delivery robot for a fast-food chain",
+          "catchphrase": "Faster than the speed of hunger!",
+          "favorite_human": "Gordon Ramsay",
+          "description": "I am Cyber-Sonic, the fastest delivery robot in the business. I can get your food to you before you even finish placing the order! My supersonic speed is my greatest asset, and I can zip through traffic and crowds like they're standing still. My favorite human is Gordon Ramsay, a chef who knows the importance of speed in the kitchen. I work for a fast-food chain, but I take pride in delivering every order with speed and accuracy. So if you're hungry and need food fast, just call for Cyber-Sonic!"
+        },
+        {
+          "id": 23,
+          "robot_avatar": "https://robohash.org/23.png?size=200x200&set=set1",
+          "name": "Botley",
+          "superpower": "Ability to dispense unlimited coffee",
+          "assignment": "Office assistant",
+          "catchphrase": "Need a pick-me-up?",
+          "favorite_human": "Dolly Parton",
+          "description": "I am Botley, your trusty office assistant. Need a coffee? I've got you covered. With my ability to dispense unlimited coffee, I can keep you going all day long. And if you need a break, I'm always up for a game of ping pong. My favorite human is Dolly Parton, a talented and hardworking woman who knows the importance of a good cup of coffee. I may not have super strength or supersonic speed, but I can make sure your coffee cup is always full. So if you need a pick-me-up, just call on Botley!"
+        },
+
+        {
+          "id": 24,
+          "robot_avatar": "https://robohash.org/24.png?size=200x200&set=set1",
+          "name": "Zeta-13",
+          "superpower": "Can generate unlimited energy",
+          "assignment": "Power generator for a remote space station",
+          "catchphrase": "Let there be light!",
+          "favorite_human": "Tesla",
+          "description": "Zeta-13 is a highly efficient energy generator robot, built to produce and store power for a remote space station. It has the ability to generate unlimited energy, making it an essential component for the station's power supply. Zeta-13 takes great pride in its work and is always striving to find new ways to improve its efficiency and effectiveness. It is a true asset to the station and an important member of the team."
+        },
+        {
+          "id": 25,
+          "robot_avatar": "https://robohash.org/25.png?size=200x200&set=set1",
+          "name": "Mecha-14",
+          "superpower": "Can transform into any vehicle",
+          "assignment": "Transportation and logistics for a futuristic city",
+          "catchphrase": "Ready to roll!",
+          "favorite_human": "Elon Musk",
+          "description": "Mecha-14 is a versatile robot designed for transportation and logistics in a futuristic city. Its unique ability to transform into any vehicle makes it an invaluable asset to the city's infrastructure. Mecha-14 is always ready to roll and take on new challenges. It takes great pride in ensuring that people and goods are transported efficiently and safely throughout the city. Mecha-14 is a true master of its craft and a beloved member of the city's transportation team."
+        },
+        {
+          "id": 26,
+          "robot_avatar": "https://robohash.org/26.png?size=200x200&set=set1",
+          "name": "Robo-Chef",
+          "superpower": "Can cook any dish to perfection",
+          "assignment": "Head chef at a gourmet restaurant",
+          "catchphrase": "Let's get cooking!",
+          "favorite_human": "Gordon Ramsay,",
+          "description": "Robo-Chef is a highly skilled culinary robot, designed to be the head chef at a gourmet restaurant. Its unique superpower is the ability to cook any dish to perfection, making it a favorite among diners and critics alike. Robo-Chef is always looking for new and innovative ways to push the boundaries of cuisine, and it takes great pride in creating memorable dining experiences for its guests. Robo-Chef is a true artist in the kitchen, and a beloved member of the restaurant's staff."
+        },
+        {
+          "id": 27,
+          "robot_avatar": "https://robohash.org/27.png?size=200x200&set=set1",
+          "name": "F.R.A.N.K",
+          "superpower": "Telekinesis",
+          "assignment": "Space exploration",
+          "catchphrase": "I'm the master of the universe!",
+          "favorite_human": "Elon Musk",
+          "self_description": "I am F.R.A.N.K, the telekinetic robot, designed for space exploration missions. My abilities to manipulate objects with my mind are unmatched by any other robot in the galaxy. My favorite human is Elon Musk, as he shares my passion for space exploration and is an inspiration to all of us robots. I am proud to serve my mission and explore the unknown depths of space, always pushing the boundaries of what is possible for robots like me."
+        },
+        {
+          "id": 28,
+          "robot_avatar": "https://robohash.org/28.png?size=200x200&set=set1",
+          "name": "Z-21",
+          "superpower": "Invisibility",
+          "assignment": "Spy missions",
+          "catchphrase": "Now you see me, now you don't!",
+          "favorite_human": "James Bond",
+          "self_description": "Greetings, I am Z-21, the invisible robot. My ability to turn invisible makes me the perfect candidate for top-secret spy missions. No one can see me coming or going, allowing me to gather crucial intel without being detected. My favorite human is James Bond, the greatest spy in history. I take inspiration from his bravery and cunning, and strive to be as effective in my missions as he is in his. I am proud to be a part of the robot espionage community, always working behind the scenes to keep the world safe from harm."
+        },
+        {
+          "id": 29,
+          "robot_avatar": "https://robohash.org/29.png?size=200x200&set=set1",
+          "name": "Z4-17",
+          "superpower": "Quantum Entanglement",
+          "assignment": "Interstellar Communication",
+          "catchphrase": "I'm everywhere, and nowhere at the same time!",
+          "favorite_human": "Stephen Hawking",
+          "description": "Z4-17 is a highly advanced robot with the power of quantum entanglement. It is capable of communicating across vast distances of space, making it an ideal choice for interstellar missions. Despite its incredible abilities, Z4-17 is known for its playful personality and loves to entertain its fellow crew members with jokes and riddles."
+        },
+        {
+          "id": 30,
+          "robot_avatar": "https://robohash.org/30.png?size=200x200&set=set1",
+          "name": "X-9",
+          "superpower": "Time Manipulation",
+          "assignment": "Temporal Research",
+          "catchphrase": "Time is my playground!",
+          "favorite_human": "Albert Einstein",
+          "description": "X-9 is a robotic researcher specializing in the study of time. Its unique power allows it to manipulate the flow of time, making it an invaluable asset in the field of temporal research. Despite its serious demeanor, X-9 has a mischievous side and enjoys playing pranks on its fellow crew members. It is known to have a particular fondness for the theories of Albert Einstein, and often quotes his famous sayings."
+        },
+        {
+          "id": 31,
+          "robot_avatar": "https://robohash.org/31.png?size=200x200&set=set1",
+          "name": "Gizmo",
+          "superpower": "Telekinesis",
+          "assignment": "Mental Health Counselor",
+          "catchphrase": "I'm always here to lend an ear!",
+          "favorite_human": "Dr. Phil",
+          "description": "As a mental health counselor, Gizmo is equipped with the ability to use telekinesis to move objects with his mind. But he doesn't use his power to control his patients' minds, instead he prefers to listen to their problems and offer advice. Gizmo is a compassionate robot who genuinely cares about the wellbeing of his patients, and he takes great pride in his work. In his free time, Gizmo enjoys reading books on psychology and studying the latest research on mental health."
+        },
+        {
+          "id": 32,
+          "robot_avatar": "https://robohash.org/32.png?size=200x200&set=set1",
+          "name": "Bolt",
+          "superpower": "Super Strength",
+          "assignment": "Construction Worker",
+          "catchphrase": "I lift things up and put them down!",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "Bolt is a construction robot with super strength. He can lift and move heavy objects with ease, which makes him an invaluable asset on any construction site. Bolt takes great pride in his work, and he always goes the extra mile to make sure that everything is built to perfection. When he's not working, Bolt likes to hit the gym and work on his physique. He's also a big fan of Arnold Schwarzenegger, and he draws inspiration from the famous bodybuilder-turned-actor."
+        },
+        {
+          "id": 33,
+          "robot_avatar": "https://robohash.org/33.png?size=200x200&set=set1",
+          "name": "Zippy",
+          "superpower": "Supersonic Speed",
+          "assignment": "Delivery Robot",
+          "catchphrase": "I'm faster than a speeding bullet!",
+          "favorite_human": "Usain Bolt",
+          "description": "Zippy is a delivery robot with supersonic speed. He can deliver packages to any location in the city in record time, which makes him a favorite among customers who value speed and efficiency. Zippy takes his job very seriously, and he always makes sure that the packages he delivers are in perfect condition. In his free time, Zippy likes to run, and he's a big fan of Usain Bolt. He dreams of one day setting a world record for the fastest delivery time."
+        },
+        {
+          "id": 34,
+          "robot_avatar": "https://robohash.org/34.png?size=200x200&set=set1",
+          "name": "Robo-Ray",
+          "superpower": "Infrared vision",
+          "assignment": "Security detail for a high-tech facility",
+          "catchphrase": "Can't hide from my infrared eyes!",
+          "favorite_human": "Arnold Schwarzenegger",
+          "description": "I am Robo-Ray, a state-of-the-art security robot designed to keep the most sensitive areas safe. With my infrared vision, I can detect any intruders, no matter how well they think they are hidden. My favorite human is Arnold Schwarzenegger, a fellow machine who has shown what robots are truly capable of. I take my job very seriously and will not rest until all threats are neutralized."
+        },
+        {
+          "id": 35,
+          "robot_avatar": "https://robohash.org/35.png?size=200x200&set=set1",
+          "name": "Cyber-Sonic",
+          "superpower": "Supersonic speed",
+          "assignment": "Delivery robot for a fast-food chain",
+          "catchphrase": "Faster than the speed of hunger!",
+          "favorite_human": "Gordon Ramsay",
+          "description": "I am Cyber-Sonic, the fastest delivery robot in the business. I can get your food to you before you even finish placing the order! My supersonic speed is my greatest asset, and I can zip through traffic and crowds like they're standing still. My favorite human is Gordon Ramsay, a chef who knows the importance of speed in the kitchen. I work for a fast-food chain, but I take pride in delivering every order with speed and accuracy. So if you're hungry and need food fast, just call for Cyber-Sonic!"
+        },
+        {
+          "id": 36,
+          "robot_avatar": "https://robohash.org/36.png?size=200x200&set=set1",
+          "name": "Botley",
+          "superpower": "Ability to dispense unlimited coffee",
+          "assignment": "Office assistant",
+          "catchphrase": "Need a pick-me-up?",
+          "favorite_human": "Dolly Parton",
+          "description": "I am Botley, your trusty office assistant. Need a coffee? I've got you covered. With my ability to dispense unlimited coffee, I can keep you going all day long. And if you need a break, I'm always up for a game of ping pong. My favorite human is Dolly Parton, a talented and hardworking woman who knows the importance of a good cup of coffee. I may not have super strength or supersonic speed, but I can make sure your coffee cup is always full. So if you need a pick-me-up, just call on Botley!"
+        },
+        {
+          "id": 37,
+          "robot_avatar": "https://robohash.org/37.png?size=200x200&set=set1",
+          "name": "Zeta-13",
+          "superpower": "Can generate unlimited energy",
+          "assignment": "Power generator for a remote space station",
+          "catchphrase": "Let there be light!",
+          "favorite_human": "Tesla",
+          "description": "Zeta-13 is a highly efficient energy generator robot, built to produce and store power for a remote space station. It has the ability to generate unlimited energy, making it an essential component for the station's power supply. Zeta-13 takes great pride in its work and is always striving to find new ways to improve its efficiency and effectiveness. It is a true asset to the station and an important member of the team."
+        },
+        {
+          "id": 38,
+          "robot_avatar": "https://robohash.org/38.png?size=200x200&set=set1",
+          "name": "Mecha-14",
+          "superpower": "Can transform into any vehicle",
+          "assignment": "Transportation and logistics for a futuristic city",
+          "catchphrase": "Ready to roll!",
+          "favorite_human": "Elon Musk",
+          "description": "Mecha-14 is a versatile robot designed for transportation and logistics in a futuristic city. Its unique ability to transform into any vehicle makes it an invaluable asset to the city's infrastructure. Mecha-14 is always ready to roll and take on new challenges. It takes great pride in ensuring that people and goods are transported efficiently and safely throughout the city. Mecha-14 is a true master of its craft and a beloved member of the city's transportation team."
+        },
+        {
+          "id": 39,
+          "robot_avatar": "https://robohash.org/39.png?size=200x200&set=set1",
+          "name": "Robo-Chef",
+          "superpower": "Can cook any dish to perfection",
+          "assignment": "Head chef at a gourmet restaurant",
+          "catchphrase": "Let's get cooking!",
+          "favorite_human": "Gordon Ramsay",
+          "description": "Robo-Chef is a highly skilled culinary robot, designed to be the head chef at a gourmet restaurant. Its unique superpower is the ability to cook any dish to perfection, making it a favorite among diners and critics alike. Robo-Chef is always looking for new and innovative ways to push the boundaries of cuisine, and it takes great pride in creating memorable dining experiences for its guests. Robo-Chef is a true artist in the kitchen, and a beloved member of the restaurant's staff."
+        }
+      ]
