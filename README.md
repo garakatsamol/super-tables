@@ -71,13 +71,21 @@ You are expected to **score yourself** by filling in the following form. You sho
 
 | Feature            | Score (0-5)       |
 | ------------------ | ----------------- |
-| Sorting            | [type your score] |
-| Paging             | [type your score] |
-| Expanding row      | [type your score] |
-| Navigating to item | [type your score] |
-| Smart back to list | [type your score] |
+| Sorting            |         5         |
+| Paging             |         5         |
+| Expanding row      |         4         |
+| Navigating to item |         5         |
+| Smart back to list |         4         |
 
 **Notes**: [Type anything else related to your implementation that could help us assess your effort better; this is optional]
+I have implemented this assesment trying to use as many Nuxt features as i could:
+-i have created 2 custom components 
+-i created an api endpoint that returns the json formatted data. 
+-the data are retrieved by a json file. 
+
+The code is well documented, thanks to my new friend chatGPT :) 
+
+I could definitely get more animations and css work
 
 ---
 

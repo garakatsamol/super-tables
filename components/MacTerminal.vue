@@ -18,9 +18,9 @@
     </div>
   </div>
 </template>
-<script >
+<script>
 export default {
- props: ['terminalClass'],
- 
-}
+  // A prop that is used to determine the class of the terminal window.
+  props: ['terminalClass'],
+};
 </script>

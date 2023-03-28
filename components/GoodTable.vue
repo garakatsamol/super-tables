@@ -1,5 +1,7 @@
+<!-- This is a template for a table component that uses the Vue Good Table library. -->
 <template>
   <div class="mx-10">
+    <!-- The Vue Good Table component with various props and events. -->
     <vue-good-table 
       :columns="columns" 
       :rows="rows" 
@@ -10,6 +12,8 @@
       theme="nocturnal" 
       expanded-row-classes=""
       expanded-row-detail-classes="expanded-row">
+      
+      <!-- The template for the row details that gets expanded when a row is clicked. -->
       <template #row-details="props">
         <div class="flex items-center">
           <div class="w-1/4 text-center">
@@ -48,20 +52,13 @@ export default {
     },
   },
   methods: {
-  imgFn(rowObj, classes) {
-    
-    return `<img class="${classes}" src="${rowObj.robot_avatar}" alt="Robot avatar1" />`;
-  },
-  onRowMouseover(params) {
-    
-    const rowEl = params.row
-    console.log(rowEl)
-
-    // params.row - row object 
-    // params.pageIndex - index of this row on the current page.
-  }
-},
+    // A method that generates HTML for an image tag for a given row object and CSS classes.
+    imgFn(rowObj, classes) {
+      return `<img class="${classes}" src="${rowObj.robot_avatar}" alt="Robot avatar1" />`;
+    },
+     },
   data() {
+    // The pagination options for the table.
     return {
       paginationOptions: {
         enabled: true,
@@ -84,6 +81,7 @@ export default {
 </script>
 
 <style>
+/* The CSS for the table. */
 .vgt-wrap.nocturnal .vgt-table tbody tr:not(.expanded-row):hover,
 .vgt-wrap.nocturnal .vgt-table tbody tr:hover td{
   background-color: #fff;

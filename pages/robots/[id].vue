@@ -19,11 +19,10 @@
 </template>
 
 <script setup>
+// Import the `useRoute` and `useFetch` hooks from Nuxt.js
+const route = useRoute(); // `useRoute` gives you access to the current route object
+const { data: robotsData } = await useFetch('/api/robotData'); // `useFetch` is a hook that fetches data from a URL
 
-
-const route = useRoute();
-const { data: robotsData } = await useFetch('/api/robotData');
-
+// Find the robot data for the current robot ID
 const robot = robotsData.value.robots.find(r => r.id === parseInt(route.params.id));
-
 </script>

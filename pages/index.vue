@@ -23,15 +23,12 @@
 </template>
 
 <script>
-import MacTerminal from '~/components/MacTerminal.vue'
+import MacTerminal from '~/components/MacTerminal.vue' // import MacTerminal component from '~/components/MacTerminal.vue'
 
 export default {
   components: {
-    MacTerminal
+    MacTerminal // register MacTerminal component as a child component
   }
 }
 </script>
-<style lang="scss">
 
-
-</style>
