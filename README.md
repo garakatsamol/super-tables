@@ -78,6 +78,7 @@ You are expected to **score yourself** by filling in the following form. You sho
 | Smart back to list |         4         |
 
 **Notes**: [Type anything else related to your implementation that could help us assess your effort better; this is optional]
+
 I have implemented this assesment trying to use as many Nuxt features as i could:
 -i have created 2 custom components 
 -i created an api endpoint that returns the json formatted data. 
