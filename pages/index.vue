@@ -9,7 +9,7 @@
           <div class="inline-block leading-10 text-secondary -top-5 relative "><Icon  name="material-symbols:select-check-box" size="3em" /></div>
           <div class="inline-block "><h2 class="text-3xl font-bold text-secondary tracking-tight text-white sm:text-4xl">I am a Robot</h2></div>
         </div>
-          <p class="mt-6 text-lg leading-8 text-gray-300">Ac euismod vel sit maecenas id pellentesque eu sed consectetur. Malesuada adipiscing sagittis vel nulla.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">The robots are coming! And they're not here to take over the world (yet), but to make our lives easier (and maybe a bit more fun). At our robot store, you'll find robots for every occasion - from the helpful Roomba that vacuums your floors, to the adorable RoboPet that follows you around like a loyal companion.  So come on down to our robot store and join the robot revolution - after all, resistance is futile (and not nearly as much fun).</p>
           <div class="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
           <NuxtLink to="/list" class="rounded-md bg-primary px-3.5 py-2.5 text-md font-semibold text-white shadow-sm  hover:bg-gray-100 hover:text-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">GET A ROBOT</NuxtLink>
               </div>
